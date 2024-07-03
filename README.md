@@ -8,3 +8,5 @@
 
 <h1>Responsividade</h1>
 <p>Depois do termino da escrita e transformação do site, eu foquei em deixar ele responsivo, no fim deixei ele perfeito de se usar em telefones do tipo (Iphone SE, Iphone 12 pro, Galaxy S8+)</p>
+<p>Para acessar a versão responsiva do site é necessario o uso da ferramenta de seu navegador chamada "inspecionar elemento" que pode ser acessada pelo botão direito de seu mouse em nosso site(ou qualquer outro) e depois em especionar elemento</p>
+<p>depois disso após usar o simbolo <img src="Agrinho/monitor.PNG">
