@@ -1,7 +1,7 @@
 <h1>Site Agrinho.</h1>
 <h2>Site totalmente desenvolvido utilizando as linguagens de HTML e CSS.</h2>
 <h2>Para informar um pouco sobre o tema discutido no agrinho deste ano.</h2>
-<h2>O site começa documento (HTML) <a href="Agrinho/Inicial.html" >Inicial</a>.</h2>
+<h2>O site começa documento (HTML) Onde você pode acessá-lo com este link (<a href="Agrinho/Inicial.html" >Inicial</a>).</h2>
 <p>Após acessarem a primeira página do site, pode-se perceber que acima há uma barra de opções onde a links que alteram sua cor, para acessam as outras páginas com mais informações.</p>
 
 
