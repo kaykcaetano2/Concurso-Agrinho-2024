@@ -59,7 +59,7 @@ span{
     font-size: var(--tamanho-texto); 
 }
 .aumento{
-    width: 50%;
+    width: 25%;
 }
 .tInicio{
     display: flex;  
